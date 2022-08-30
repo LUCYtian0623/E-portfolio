@@ -1,0 +1,25 @@
+body {text-align: center;}
+h1 {font-weight: bold;font-size: 30;}
+p {font-size: 20; color: black;}
+
+.image1 {width:230px; height:230px;border-radius:10%; margin:auto;}
+.image2 {width:400px;height:350px;}
+.image {margin:10px auto;display:block;width:350px;height:900px;}
+.skill {margin:5% 25%;}
+.skillname {margin:auto;}
+.containerend{text-align: center;background-color: #e7e6e1; margin-bottom: 20px; padding:20px;}
+.imgend {width: 100px; height:100px; display:inline-block;}
+.workend{display:inline}
+.carousel{margin: 5% 30%;}
+.arrow1 {border-color:transparent; background-color: transparent;}
+.arrow2 {border-color:transparent; background-color: transparent;}
+.v1 {display: inline-block;margin-left: 100px;}
+.v2 {display: inline-block;margin-right: 100px;}
+
+
+.video{ display: inline-block;
+  margin: 20px 25px;
+  width: 400px;
+  height:300px;}
+.pointer1 {background-color: black;display:inline-block;width:30px; height:30px;position:relative;right:100px}
+.pointer2 {background-color: black;display:inline-block;width:30px; height:30px;position:relative;left:100px}
